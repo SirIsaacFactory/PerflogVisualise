@@ -4,7 +4,7 @@
 # Overview : Visualise Performance Logs
 #-------------------------------------------------------------------------------
 # Author: Isaac Factory (sir.isaac.factory@icloud.com)
-# Repository: https://github.com/SirIsaacFactory/pythonlibs
+# Repository: https://github.com/SirIsaacFactory/PerflogVisualise
 # Date: 2024/04/29
 # Code version: v1.00
 ################################################################################
